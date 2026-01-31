@@ -7,5 +7,5 @@ Prediction example:
 - Input: infer2.jpg (a dog image)
 - Output: dog (confidence: 99.92%)
 
-
+!(infer22.jpg)
 
