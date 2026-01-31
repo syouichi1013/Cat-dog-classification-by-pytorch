@@ -3,6 +3,7 @@
 
 ### Dataset: Kaggle Cats vs. Dogs Dataset
 #### File structure
+
 data/
 ├── train/
 │   ├── cat.0.jpg
