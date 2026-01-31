@@ -4,8 +4,9 @@
 ### Dataset: Kaggle Cats vs. Dogs Dataset
 
 ### Prediction example:
-- Input: infer2.jpg (a dog image)
-- Output: dog (confidence: 99.92%)
+- Input: a dog and cat images
+- Output: dog (confidence: 99.92%) cat (confidence: 99.99%)
 
 ![Prediction Image](infer22.jpg)
+![Prediction Image](infer11.jpg)
 
