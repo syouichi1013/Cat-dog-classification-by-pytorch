@@ -7,6 +7,6 @@
 - Input: a dog and cat images
 - Output: dog (confidence: 99.92%) cat (confidence: 99.99%)
 
-![Prediction Image](infer22.jpg)
-![Prediction Image](infer11.jpg)
+![Prediction Image](infer22.jpg)![Prediction Image](infer11.jpg)
+
 
