@@ -22,7 +22,7 @@ data/
 
 ## Training
 Run the training script directly:
-```bashpython train.py```
+```bash python train.py```
 
 ## Inference
 1.Place test images named infer1.jpg and  infer2.jpg in the project root
