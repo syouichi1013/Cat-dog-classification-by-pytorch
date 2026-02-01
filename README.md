@@ -10,14 +10,12 @@ data/
 
  train/
  
- | -- cat 
- 
+ | -- cat  
  | -- dog
  
  test/  
  
  | -- cat 
- 
  | -- dog
 
 
