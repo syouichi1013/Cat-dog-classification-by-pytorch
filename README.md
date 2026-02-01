@@ -26,8 +26,10 @@ Run the training script directly:
 
 ## Inference
 1.Place test images named infer1.jpg and  infer2.jpg in the project root
+
 2.Run the inference script:
 ```bashpython infer.py```
+
 3.A result image with Pred and Conf will be generated.(as below for example
 ![Prediction Image](infer/infer22.jpg)
 ![Prediction Image](infer/infer11.jpg)
