@@ -5,6 +5,7 @@ A simple image classification model (based on ResNet18) to distinguish cats and 
 
 ## Data Preparation
 Labelled data was used to train and test the model
+
 data/ 
  train/
  | -- cat 
